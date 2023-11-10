@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ I'm super familiar with ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,swift,vscode,github,figma,git,unity" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,swift,Kotlin,vscode,github,figma,git,unity" />
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,c#" /><br>
 </div>
 
